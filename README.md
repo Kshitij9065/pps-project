@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.1.0-yellowgreen" alt="version 1.1.0"/>
-    <img src="https://img.shields.io/badge/author-meltedhyperion-orange" alt="author ARYAN"/>
+    <img src="https://img.shields.io/badge/author-kshitij-orange" alt="author Kshitij"/>
 </p>
 
 > A simple, dynamically resizing array implementation in C. 🚀
@@ -73,3 +73,10 @@ int popDynArray(dynarray *arr);
 ```
 void freeDynarray(dynarray *arr);
 ```
+
+
+## Team 💥
+
+
+| <p align="center">![Kshitij](https://github.com/kshitij9065.png?size=128)<br>[Kshitij](https://github.com/kshitij9065)</p> | <p align="center">![Kaustubh](https://github.com/kaustubhhh10.png?size=128)<br>[Kaustubh](https://github.com/kaustubhhh10)</p> |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
